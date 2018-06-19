@@ -1,0 +1,253 @@
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+Hello Hivemind,
+
+We are starting a new project for a banking system and we are having discussions around the Tech choice for the Auth (authorisation / authentication) system which we are going to build. Good part is we have the flexibility to choose any language as long as we have valid points to back it up.
+
+We had narrowed down our choices to Golang or Elixir. Though we haven t developed production systems using either of these languages, these are the points which lead us to this decision.
+
+Performance is the critical piece here. In fact they gave the response times in the proposal document (avg - 5 milli seconds, max - 10 milli seconds). No of requests to handle is also in terms of 1000s.
+Integration with AWS services (both have good AWS SDK though)
+Libraries for OAuth2, encryption and hash algorithms (HMAC, MD5), OTP mechanisms
+Learning curve for the developer (including the client devs once the hand over is done)
+They have hard timeline and it is 2.5 months to go to UAT
+Good libraries for exposing REST APIs.
+Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
+
+I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
+
+But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
+
+
