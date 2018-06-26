@@ -13,6 +13,7 @@ Good libraries for exposing REST APIs.
 Though we have tried both the languages, its mostly within the scope of pet projects we do. Whats your thought on having it in production grade bank systems ?
 
 Some new line added
+another text content added
 I looked at few of the blogs (which are good :-)) to compare the languages. Eg: Elixir vs Golang, Another Elixir vs Golang
 
 But thought it would be good to know from TW ers who used it in their project. Which one do you prefer based on these points ? Please let us know your thoughts.
